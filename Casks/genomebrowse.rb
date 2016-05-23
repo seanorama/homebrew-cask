@@ -1,4 +1,4 @@
-cask 'genome-browse' do
+cask 'genomebrowse' do
   version '2.1.1'
   sha256 '8f24f384dfc14df5cc6076eb2e200b4dfc0df74d25928718082076ae7eec2161'
 
